@@ -1,0 +1,34 @@
+html,
+body {
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+#card {
+    padding: 1em;
+    border-bottom: 1px solid #7C828C;;
+}
+#entry {
+    color: #0A1316;
+    padding: 1em 0;
+    font-weight: 600;
+}
+#translation{
+    color: #13242B;
+}
+#example {
+    color: #7C828C;
+}
+#category {
+    color: #3E4D48;
+    font-style: italic;
+}
+#related {
+    width: 80%;
+    margin: 0 auto;
+    color: #7C828C;
+    font-style: italic;
+}
+#utterance {
+    color: #3E4D48;
+    font-weight: 600;
+}

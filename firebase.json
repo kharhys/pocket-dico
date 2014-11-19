@@ -1,0 +1,9 @@
+{
+  "firebase": "pocket-dico",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

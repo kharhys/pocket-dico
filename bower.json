@@ -1,0 +1,25 @@
+{
+  "name": "https://github.com/kharhys/pocket-dico",
+  "version": "0.0.0",
+  "description": "english somali dictionary app",
+  "license": "MIT",
+  "main": "src/pocket-dico.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.4.2",
+    "simple-scroller": "~0.0.2",
+    "firebase-element": "Polymer/firebase-element#~0.5.1"
+  },
+  "resolutions": {
+    "polymer": "^0.5.0",
+    "core-component-page": "^0.5.0"
+  }
+}
